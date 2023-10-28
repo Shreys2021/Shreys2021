@@ -1,4 +1,4 @@
-<span style="font-weight: bold; color: black;">[Hi 👋, I’m Shreyas Asutkar @shreys2021](https://github.com/Shreys2021)</span>
+**[Hi 👋, I’m Shreyas Asutkar @shreys2021](https://github.com/Shreys2021)**
 
 
 •	👨💻 Full-Stack Web Developer with expertise in React.js, Node.js, and Java, passionate about crafting modern user interface.
